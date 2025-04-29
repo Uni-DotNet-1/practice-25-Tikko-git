@@ -61,7 +61,7 @@ namespace Practics_8
         
         public IEnumerable<int> ConcatenateLists(List<int> list1, List<int> list2)
         {
-            return list1.Concat(list2)
+            return list1.Concat(list2);
         }
     }
 }
